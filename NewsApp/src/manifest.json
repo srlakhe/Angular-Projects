@@ -1,0 +1,16 @@
+{
+  "name": "newsapp",
+  "short_name": "newsapp",
+  "theme_color": "#c4473a",
+  "background_color": "#c4473a",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
